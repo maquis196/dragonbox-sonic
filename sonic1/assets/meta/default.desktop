@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=1.3.2-r1
+Type=Application
+Categories=Game;Platform;
+Name="Sonic The Hedgehog"
+Exec=sonic1.sh
+Icon=icon.jpg
+X-DBP-Screenshot=menu.jpg;level.jpg;
+
+[Package Entry]
+Id=sonic1_maquis196
+Name="Sonic The Hedgehog"
+Arch=armhf
+Exec=sonic1.sh
+Version=1.3.2-r1
+Appdata=sonic1
+Icon=icon.jpg
